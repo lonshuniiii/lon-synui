@@ -1,8 +1,6 @@
-local getidentity
-getidentity = hookfunction(getidentity,function()
+function identifyexecutor()
 return "Synapse X"
 end
-)
 getgenv().name = "Synapse X用户保护"
 
 
