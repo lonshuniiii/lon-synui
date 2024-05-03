@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/longshu886/linniscript/main/linnigaoji"))()
