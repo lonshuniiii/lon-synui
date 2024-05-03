@@ -1,3 +1,9 @@
+function identifyexecutor()
+return "Synapse X"
+end
+function getexecutorname()
+return "Synapse X"
+end
 getgenv().name = "Synapse X用户保护"
 
 
